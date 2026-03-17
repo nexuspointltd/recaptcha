@@ -1,8 +1,8 @@
 {
-    "name": "sdsmith1981/recaptcha",
+    "name": "nexuspointltd/recaptcha",
     "description": "reCAPTCHA Validator for Laravel 9",
 	"keywords": ["recaptcha", "captcha", "laravel", "laravel9"],
-	"homepage": "http://github.com/sdsmith1981/recaptcha",
+	"homepage": "http://github.com/nexuspointltd/recaptcha",
 	"license": "MIT",
     "authors": [
         {
