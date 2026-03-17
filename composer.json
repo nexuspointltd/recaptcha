@@ -1,5 +1,5 @@
 {
-    "name": "nexuspointltd/recaptcha",
+    "name": "nexuspoint/recaptcha",
     "description": "reCAPTCHA Validator for Laravel 9",
 	"keywords": ["recaptcha", "captcha", "laravel", "laravel9"],
 	"homepage": "http://github.com/nexuspointltd/recaptcha",
